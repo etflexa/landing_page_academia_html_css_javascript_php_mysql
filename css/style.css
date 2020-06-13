@@ -102,6 +102,7 @@ html,body{
 	height: 45px;
 	height: 8px 10px;
 	border:1px solid #ccc;
+	
 }
 
 .input-container input[type=text], input[type=email]:focus{
@@ -123,11 +124,12 @@ html,body{
 	border-right: 0;
 	border-left: 0;
 	cursor: pointer;
+	transition: 1s;
 	
 }
 
 .form input[type=submit]:hover{
-	-webkit-transition: 0.5s ease-in;
+	transition-timing-function: linear;
 	background-color: rgb(150,150,150);
 }
 
@@ -239,8 +241,11 @@ html,body{
 		text-align: center;
 	}
 
-	.header img{
-		margin:0;
+
+	.title-site h2{
+		margin-top: auto;
+		
+		
 	}
 
 	.container-list{
