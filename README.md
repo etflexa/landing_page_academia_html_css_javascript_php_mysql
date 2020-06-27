@@ -17,6 +17,7 @@ Para fazer alterações na landing page, é necessária a instalação do XAMPP 
 - Apresentar informações sobre a academia
 - Cadastrar no banco de dados, os formulários de contato dos clientes interessados em mais informações
 - Visualizar os formulários de contato dos clientes, para encaminhas outras informações, podendo excluí-los, caso não sejam mais necessários
+- Realizar o backup do banco de dados de forma dinâmica
 
 ### Tecnologias Utilizadas:
 - html
