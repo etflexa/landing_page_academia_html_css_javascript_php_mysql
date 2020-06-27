@@ -85,6 +85,11 @@
 		color: black;
 		text-decoration: none;
 	}
+
+	a{
+		text-decoration: none;
+	}
+	
 </style>
 	<title>ACADEMIA FIT - ADMINISTRADOR</title>
 </head>
@@ -97,7 +102,7 @@
 
 			<nav class="menu">
 				<ul>
-					<li><a href="">Formulários Abertos</a></li>
+					<li><a href="backup_dinamico\backup.php">Realizar Backup</a></li>
 				</ul>
 				
 			</nav>
